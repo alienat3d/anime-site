@@ -3,17 +3,21 @@
 
 'use strict';
 
-const modal = document.querySelector('.search-modal');
-const modalButton = document.querySelector('.icon_search');
-const modalCloseButton = modal.querySelector('.search-close-switch');
-const searchInput = modal.querySelector('#search-input');
+const modal = () => {
+  const modal = document.querySelector('.search-modal');
+  const modalButton = document.querySelector('.icon_search');
+  const modalCloseButton = modal.querySelector('.search-close-switch');
+  const searchInput = modal.querySelector('#search-input');
 
-modalButton.addEventListener('click', () => {
-  modal.style.display = 'block';
-});
+  modalButton.addEventListener('click', () => {
+    modal.style.display = 'block';
+  });
 
-modalCloseButton.addEventListener('click', () => {
-  modal.style.display = 'none';
-});
+  modalCloseButton.addEventListener('click', () => {
+    modal.style.display = 'none';
+  });
 
-searchInput.addEventListener('input', (evt) => console.log(evt.target.value));
+  searchInput.addEventListener('input', (evt) => console.log(evt.target.value));
+}
+
+modal();
