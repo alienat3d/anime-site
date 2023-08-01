@@ -20,15 +20,14 @@
   <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
   <link rel="stylesheet" href="css/style.css" type="text/css">
   <!-- JS Plugins -->
-  <script defer src="./js/preloader.js"></script>
   <script defer src="./js/modal.js"></script>
   <script defer src="./js/scroll-to-top.js"></script>
-  <script defer src="./js/detail-data.js"></script>
+  <script defer src="./js/details-data.js"></script>
 </head>
 
 <body>
   <!-- Page preloader -->
-  <div id="preloader" class="preloader">
+  <div id="preloader" class="preloader active">
     <div class="loader"></div>
   </div>
 
@@ -47,10 +46,10 @@
           <div class="header__nav">
             <nav class="header__menu mobile-menu">
               <ul>
-                <li><a href="./index.html">Homepage</a></li>
-                <li class="active"><a href="./categories.html">Categories <span class="arrow_carrot-down"></span></a>
+                <li><a href="./index.html">Главная</a></li>
+                <li class="active"><a href="./categories.html">Категории <span class="arrow_carrot-down"></span></a>
                   <ul class="dropdown">
-                    <li><a href="./categories.html">Categories</a></li>
+                    <!-- # main-data.js injection -->
                   </ul>
                 </li>
               </ul>
@@ -75,8 +74,8 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="breadcrumb__links">
-            <a href="./index.html"><i class="fa fa-home"></i> Home</a>
-            <a href="./categories.html">Categories</a>
+            <a href="./index.html"><i class="fa fa-home"></i> Главная</a>
+            <a href="./categories.html">Категории</a>
             <span>Romance</span>
           </div>
         </div>
@@ -92,31 +91,28 @@
         <div class="row">
           <div class="col-lg-3">
             <div class="anime__details__pic set-bg" data-setbg="img/anime/details-pic.jpg">
-              <div class="view"><i class="fa fa-eye"></i> 9141</div>
+              <div class="view">
+                <!-- # main-data.js injection -->
+              </div>
             </div>
           </div>
           <div class="col-lg-9">
             <div class="anime__details__text">
               <div class="anime__details__title">
-                <h3>Fate Stay Night: Unlimited Blade</h3>
-                <span>フェイト／ステイナイト, Feito／sutei naito</span>
+                <h3><!-- # main-data.js injection --></h3>
+                <span><!-- # main-data.js injection --></span>
               </div>
-
-              <p>Every human inhabiting the world of Alcia is branded by a “Count” or a number written on
-                their body. For Hina’s mother, her total drops to 0 and she’s pulled into the Abyss,
-                never to be seen again. But her mother’s last words send Hina on a quest to find a
-                legendary hero from the Waste War - the fabled Ace!</p>
+              <p><!-- # main-data.js injection --></p>
               <div class="anime__details__widget">
                 <div class="row">
                   <div class="col-lg-6 col-md-6">
                     <ul>
-                      <li><span>Date aired:</span> Oct 02, 2019 to ?</li>
-                      <li><span>Status:</span> Airing</li>
-                      <li><span>Genre:</span> Action, Adventure, Fantasy, Magic</li>
+                      <li><!-- # main-data.js injection --></li>
+                      <li><!-- # main-data.js injection --></li>
+                      <li><!-- # main-data.js injection --></li>
                     </ul>
                   </div>
-                  <div class="col-lg-6 col-md-6">
-                  </div>
+                  <div class="col-lg-6 col-md-6"></div>
                 </div>
               </div>
             </div>
@@ -141,8 +137,8 @@
         <div class="col-lg-6">
           <div class="footer__nav">
             <ul>
-              <li class="active"><a href="./index.html">Homepage</a></li>
-              <li><a href="./categories.html">Categories</a></li>
+              <li class="active"><a href="./index.html">Главная</a></li>
+              <li><a href="./categories.html">Категории</a></li>
             </ul>
           </div>
         </div>
@@ -166,7 +162,7 @@
     <div class="h-100 d-flex align-items-center justify-content-center">
       <div class="search-close-switch"><i class="icon_close"></i></div>
       <form class="search-modal-form">
-        <input type="text" id="search-input" placeholder="Search here.....">
+        <input type="text" id="search-input" placeholder="Ищем...">
       </form>
     </div>
   </div>

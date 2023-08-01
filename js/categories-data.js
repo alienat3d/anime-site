@@ -3,6 +3,8 @@
 'use strict';
 
 const categoriesData = () => {
+  const preloader = document.querySelector('.preloader');
+
   const renderAnimeList = (array, genres) => {
     const wrapper = document.querySelector('.product-list');
 
@@ -77,6 +79,10 @@ const categoriesData = () => {
             (element.style.backgroundImage = `url('${element.dataset.setbg}')`)
         );
     });
+    // Отключаем прелоадер.
+    setTimeout(() => {
+      preloader.classList.remove('active');
+    }, 200);
   };
 
   const renderTopAnime = (array) => {
