@@ -95,7 +95,7 @@ const detailData = () => {
     );
   };
 
-  fetch('./db.json')
+  fetch('https://anime-site-777-default-rtdb.firebaseio.com/anime.json')
     .then((response) => response.json())
     .then((data) => {
       const genres = new Set();
@@ -103,10 +103,10 @@ const detailData = () => {
         'itemID'
       );
 
-      data.anime.forEach((item) => genres.add(item.genre));
+      data.forEach((item) => genres.add(item.genre));
 
       if (genreParams) {
-        renderAnimeDetails(data.anime, genreParams);
+        renderAnimeDetails(data, genreParams);
       } else {
         console.log('Фильм отсутствует!');
       }

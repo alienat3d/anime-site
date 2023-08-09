@@ -154,10 +154,10 @@ const mainData = () => {
     .then((data) => {
       const genres = new Set();
 
-      data.anime.forEach((item) => genres.add(item.genre));
+      data.forEach((item) => genres.add(item.genre));
 
-      renderTopAnime(data.anime.sort((a, b) => b.views - a.views).slice(0, 5));
-      renderAnimeList(data.anime, genres);
+      renderTopAnime(data.sort((a, b) => b.views - a.views).slice(0, 5));
+      renderAnimeList(data, genres);
       renderGenresList(genres);
     });
 };
