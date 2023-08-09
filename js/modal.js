@@ -41,7 +41,7 @@ const modal = () => {
   // };
 
   const searchFunc = (searchStr) => {
-    fetch('./db.json')
+    fetch('https://anime-site-777-default-rtdb.firebaseio.com/anime.json')
       .then((response) => {
         return response.json();
       })

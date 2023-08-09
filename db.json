@@ -2,7 +2,7 @@
   "anime": [
     {
       "id": 0,
-      "image": "http://baza4.animevost.tv/uploads/posts/2022-03/1647186611_15.jpg",
+      "image": "./img/film-covers/dr-stone.jpg",
       "title": "Доктор Стоун",
       "original-title": "Dr. Stone",
       "genre": "Приключения",
@@ -18,7 +18,7 @@
     },
     {
       "id": 1,
-      "image": "http://baza4.animevost.tv/uploads/posts/2022-07/1657481286_14.jpg",
+      "image": "./img/film-covers/dr-stone-ryuusui.jpg",
       "title": "Доктор Стоун: Рюсуй",
       "original-title": "Dr. Stone: Ryuusui",
       "genre": "Приключения",
