@@ -10,6 +10,24 @@ const modal = () => {
     searchInput = modal.querySelector('#search-input'),
     wrapper = modal.querySelector('.search-modal-result');
 
+  // Функция для Debounce (отложенных запросов на сервер):
+  // Принимает в себя функцию и количество миллисекунд со значением по-умолчанию 500.
+  // Возвращать будем все параметры входящей функции в callback.
+  const debounce = (func, ms = 500) => {
+    let timer;
+
+    return (...args) => {
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        func.apply(this, args);
+      }, ms);
+    };
+  };
+  // Сделаем также функцию-обёртку, которая и будет запускать нашу callback-функцию. А далее эту функцию передадим в функционал поискового запроса (стр. 64)
+  const searchDebounce = debounce((searchString) => {
+    searchFunc(searchString);
+  }, 700);
+
   // Полученный массив будем отправлять на отрисовку\рендер. Туда нам нужно также получить обёртку, тот блок, в который мы будем класть элементы перебором.
   const renderFunc = (items) => {
     wrapper.innerHTML = '';
@@ -51,7 +69,9 @@ const modal = () => {
   });
   // При вводе информации в строку ввода нам необходимо делать запрос
   // searchInput.addEventListener('input', (evt) => searchFunc(evt.target.value));
-  searchInput.addEventListener('input', (evt) => searchFunc(evt.target.value));
+  searchInput.addEventListener('input', (evt) => {
+    searchDebounce(evt.target.value);
+  });
 };
 
 modal();
