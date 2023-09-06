@@ -34,7 +34,7 @@
     },
     {
       "id": 2,
-      "image": "http://baza4.animevost.tv/uploads/posts/2018-11/05528576.jpg",
+      "image": "./img/film-covers/tensei-shitara-slime-datta-ken.jpg",
       "title": "О моем перерождении в слизь",
       "original-title": "Tensei shitara Slime Datta Ken",
       "genre": "Сёнен",
@@ -49,7 +49,7 @@
     },
     {
       "id": 3,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/80206783.jpg",
+      "image": "./img/film-covers/dororo.jpg",
       "title": "Дороро",
       "original-title": "Dororo",
       "genre": "История",
@@ -65,7 +65,7 @@
     },
     {
       "id": 4,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-01/17229063.jpg",
+      "image": "./img/film-covers/yakusoku-no-neverland.jpg",
       "title": "Обещанный Неверленд",
       "original-title": "Yakusoku no Neverland",
       "genre": "Детектив",
@@ -81,7 +81,7 @@
     },
     {
       "id": 5,
-      "image": "http://baza4.animevost.tv/uploads/posts/2017-10/71014026.jpg",
+      "image": "./img/film-covers/black-clover.jpg",
       "title": "Черный клевер",
       "original-title": "Black Clover",
       "genre": "Сёнен",
@@ -96,7 +96,7 @@
     },
     {
       "id": 6,
-      "image": "http://baza4.animevost.tv/uploads/posts/2021-09/1632259653_14.jpg",
+      "image": "./img/film-covers/mahoutsukai-no-yome.jpg",
       "title": "Невеста чародея",
       "original-title": "Mahoutsukai no Yome",
       "genre": "Фэнтези",
@@ -111,7 +111,7 @@
     },
     {
       "id": 7,
-      "image": "http://baza4.animevost.tv/uploads/posts/2017-02/62689884.jpg",
+      "image": "./img/film-covers/naruto.jpg",
       "title": "Наруто ",
       "original-title": "Naruto",
       "genre": "Сёнен",
@@ -126,7 +126,7 @@
     },
     {
       "id": 8,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-06/29975560.jpg",
+      "image": "./img/film-covers/enen-no-shouboutai.jpg",
       "title": "Пламенная бригада пожарных",
       "original-title": "Enen no Shouboutai",
       "genre": "Сёнен",
@@ -141,7 +141,7 @@
     },
     {
       "id": 9,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/82185511.jpg",
+      "image": "./img/film-covers/noragami.jpg",
       "title": "Бездомный бог",
       "original-title": "Noragami",
       "genre": "Приключения",
@@ -156,7 +156,7 @@
     },
     {
       "id": 10,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/00542380.jpg",
+      "image": "./img/film-covers/darwins-game.jpg",
       "title": "Игра Дарвина",
       "original-title": "Darwin's Game",
       "genre": "Детектив",
@@ -171,7 +171,7 @@
     },
     {
       "id": 11,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
+      "image": "./img/film-covers/kuroshitsuji.jpg",
       "title": "Темный дворецкий",
       "original-title": "Kuroshitsuji",
       "genre": "История",
@@ -187,7 +187,7 @@
     },
     {
       "id": 12,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-01/95108361.jpg",
+      "image": "./img/film-covers/gleipnir.jpg",
       "title": "Глейпнир",
       "original-title": "Gleipnir",
       "genre": "Детектив",
@@ -198,11 +198,11 @@
       "date": 2020,
       "views": 22902,
       "rating": 7.8,
-      "description": "Сюити Кагая — обычный старшеклассник, обучающийся в такой же обычной школе. Живет главный герой в маленьком городке. Однако, несмотря на показную типичность, главному герою есть, что скрывать. Недавние события выбивают школьника из колеи и затягивает его в круговорот больших событий. Начинается все с похищения одноклассницы протагониста — Клэр Аюки, оказавшейся внутри склада, который скоро должен взлететь на воздух.Когда об этом узнал Сюити, он решает её спасти. Для этого главный герой использует свою суперспособность, которая позволяет ему превращаться в собаку. Однако вторая форма героя вприбавок обладает револьвером на боку и молнией на спине. Добравшись до склада, школьник сразу же перевоплащается, и вытаскивает Клэр из под обломков горящего склада. Хоть у Сюити получилось спасти девушку от неминуемой гибели, но теперь про тайну протагониста теперь знает ещё один человек. Но не только у парня есть, что скрывать. Когда-то давно вся семья Клэр была вырезана. Вырезана руками сестры девушки. Последнее время Клэр посвятила себя поиску родственницы и дальнейшему отмщению. По воле случая,в эту запутанную историю оказывается втянут и главный герой."
+      "description": "Сюити Кагая — обычный старшеклассник, обучающийся в такой же обычной школе. Живет главный герой в маленьком городке. Однако, несмотря на показную типичность, главному герою есть, что скрывать. Недавние события выбивают школьника из колеи и затягивает его в круговорот больших событий. Начинается все с похищения одноклассницы протагониста — Клэр Аюки, оказавшейся внутри склада, который скоро должен взлететь на воздух.Когда об этом узнал Сюити, он решает её спасти. Для этого главный герой использует свою суперспособность, которая позволяет ему превращаться в собаку. Однако вторая форма героя в прибавок обладает револьвером на боку и молнией на спине. Добравшись до склада, школьник сразу же перевоплощается, и вытаскивает Клэр из под обломков горящего склада. Хоть у Сюити получилось спасти девушку от неминуемой гибели, но теперь про тайну протагониста теперь знает ещё один человек. Но не только у парня есть, что скрывать. Когда-то давно вся семья Клэр была вырезана. Вырезана руками сестры девушки. Последнее время Клэр посвятила себя поиску родственницы и дальнейшему отмщению. По воле случая,в эту запутанную историю оказывается втянут и главный герой."
     },
     {
       "id": 13,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-02/11356588.jpg",
+      "image": "./img/film-covers/fullmetal-alchemist.jpg",
       "title": "Стальной алхимик",
       "original-title": "Fullmetal Alchemist",
       "genre": "Приключения",
@@ -218,7 +218,7 @@
     },
     {
       "id": 14,
-      "image": "http://baza4.animevost.tv/uploads/posts/2017-04/99225371.jpg",
+      "image": "./img/film-covers/shingeki-no-kyojin.jpg",
       "title": "Атака титанов",
       "original-title": "Shingeki no Kyojin",
       "genre": "Сёнен",
@@ -233,7 +233,7 @@
     },
     {
       "id": 15,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-08/27044507.jpg",
+      "image": "./img/film-covers/one-piece.jpg",
       "title": "Ван Пис",
       "original-title": "One Piece",
       "genre": "Приключения",
@@ -249,7 +249,7 @@
     },
     {
       "id": 16,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-08/96509012.jpg",
+      "image": "./img/film-covers/death-note.jpg",
       "title": "Тетрадь смерти",
       "original-title": "Death Note",
       "genre": "Детектив",
@@ -264,7 +264,7 @@
     },
     {
       "id": 17,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-04/21221841.jpg",
+      "image": "./img/film-covers/kami-no-tou.jpg",
       "title": "Башня Бога",
       "original-title": "Kami no Tou",
       "genre": "Детектив",
@@ -280,7 +280,7 @@
     },
     {
       "id": 18,
-      "image": "http://baza4.animevost.tv/uploads/posts/2022-02/1644932639_7-7.jpg",
+      "image": "./img/film-covers/kimetsu-no-yaiba.jpg",
       "title": "Клинок, рассекающий демонов",
       "original-title": "Kimetsu no Yaiba",
       "genre": "История",
@@ -296,7 +296,7 @@
     },
     {
       "id": 19,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-06/33537178.jpg",
+      "image": "./img/film-covers/vinland-saga.jpg",
       "title": "Сага о Винланде",
       "original-title": "Vinland Saga",
       "genre": "История",
@@ -312,7 +312,7 @@
     },
     {
       "id": 20,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-04/48614391.jpg",
+      "image": "./img/film-covers/kaze-tachinu.jpg",
       "title": "Ветер крепчает",
       "original-title": "Kaze Tachinu",
       "genre": "История",
@@ -326,7 +326,7 @@
     },
     {
       "id": 21,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/03091483.jpg",
+      "image": "./img/film-covers/tate-no-yuusha-no-nariagari.jpg",
       "title": "Восхождение героя щита",
       "original-title": "Tate no Yuusha no Nariagari",
       "genre": "Фэнтези",
@@ -341,7 +341,7 @@
     },
     {
       "id": 22,
-      "image": "http://baza4.animevost.tv/uploads/posts/2018-10/19648492.jpg",
+      "image": "./img/film-covers/goblin-slayer.jpg",
       "title": "Убийца гоблинов",
       "original-title": "Goblin Slayer",
       "genre": "Фэнтези",
@@ -355,7 +355,7 @@
     },
     {
       "id": 23,
-      "image": "http://baza4.animevost.tv/uploads/posts/2018-10/06545807.jpg",
+      "image": "./img/film-covers/arifureta-shokugyou-de-sekai-saikyou.jpg",
       "title": "Арифурэта: Сильнейший ремесленник в мире",
       "original-title": "Arifureta Shokugyou de Sekai Saikyou",
       "genre": "Фэнтези",
@@ -370,7 +370,7 @@
     },
     {
       "id": 24,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-12/1609264123_15.jpg",
+      "image": "./img/film-covers/mushoku-tensei-isekai-ittara-honki-dasu.jpg",
       "title": "Реинкарнация безработного",
       "original-title": "Mushoku Tensei: Isekai Ittara Honki Dasu",
       "genre": "Фэнтези",
@@ -385,7 +385,7 @@
     },
     {
       "id": 25,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/07114792.jpg",
+      "image": "./img/film-covers/kiseijuu-sei-no-kakuritsu.jpg",
       "title": "Паразит",
       "original-title": "Kiseijuu: Sei no Kakuritsu",
       "genre": "Фантастика",
@@ -399,7 +399,7 @@
     },
     {
       "id": 26,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-03/83465069.jpg",
+      "image": "./img/film-covers/made-in-abyss.jpg",
       "title": "Созданный в Бездне",
       "original-title": "Made in Abyss",
       "genre": "Фантастика",
@@ -415,7 +415,7 @@
     },
     {
       "id": 27,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-06/18365620.jpg",
+      "image": "./img/film-covers/cop-craft.jpg",
       "title": "Мастерство копа",
       "original-title": "Cop Craft",
       "genre": "Фантастика",
@@ -430,7 +430,7 @@
     },
     {
       "id": 28,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-12/65448485.jpg",
+      "image": "./img/film-covers/killing-bites.jpg",
       "title": "Смертельный укус",
       "original-title": "Killing Bites",
       "genre": "Фантастика",
@@ -444,7 +444,7 @@
     },
     {
       "id": 29,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-04/98666821.jpg",
+      "image": "./img/film-covers/tenkuu-no-shiro-laputa.jpg",
       "title": "Небесный замок Лапута",
       "original-title": "Tenkuu no Shiro Laputa",
       "genre": "Фантастика",
@@ -460,7 +460,7 @@
     },
     {
       "id": 30,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-10/89887153.jpg",
+      "image": "./img/film-covers/quanzhi-gaoshou-zhi-dianfeng-rongyao.jpg",
       "title": "Аватар короля: Вершина славы",
       "original-title": "Quanzhi Gaoshou zhi Dianfeng Rongyao",
       "genre": "Приключения",
@@ -474,7 +474,7 @@
     },
     {
       "id": 31,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-01/21771607.jpg",
+      "image": "./img/film-covers/kuroshitsuji.jpg",
       "title": "Темный дворецкий",
       "original-title": "Kuroshitsuji",
       "genre": "Сёнен",
@@ -490,7 +490,7 @@
     },
     {
       "id": 32,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-09/27297866.jpg",
+      "image": "./img/film-covers/rurouni-kenshin-meiji-kenkaku-romantan.jpg",
       "title": "Бродяга Кэнсин",
       "original-title": "Rurouni Kenshin: Meiji Kenkaku Romantan",
       "genre": "История",
@@ -506,7 +506,7 @@
     },
     {
       "id": 33,
-      "image": "http://baza4.animevost.tv/uploads/posts/2020-06/79391961.jpg",
+      "image": "./img/film-covers/tokyo-ghoul.jpg",
       "title": "Токийский гуль",
       "original-title": "Tokyo Ghoul",
       "genre": "Детектив",
@@ -521,7 +521,7 @@
     },
     {
       "id": 34,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-06/83152870.jpg",
+      "image": "./img/film-covers/dantes-inferno.jpg",
       "title": "Ад Данте",
       "original-title": "Dante's Inferno",
       "genre": "Фэнтези",
@@ -535,7 +535,7 @@
     },
     {
       "id": 35,
-      "image": "http://baza4.animevost.tv/uploads/posts/2019-08/24567490.jpg",
+      "image": "./img/film-covers/no-guns-life.jpg",
       "title": "Жизнь без оружия",
       "original-title": "No Guns Life",
       "genre": "Фантастика",
